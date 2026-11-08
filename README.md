@@ -1,8 +1,30 @@
-## Welcome to my github profile 👋 i'm Thoai 
-💡I'm a newcomer to programming and PCB design.
+# Hi, I'm Đặng Nguyên Thoại (NThoai) 👋
 
-## 🛠️About me
-💡I'm still developing my skills for my passion, and I've also completed several projects with assistance. I'm eager to share the knowledge I've gained and look forward to collaborating with individuals who have similar goals.🚀
+Hardware Engineer PCB Designer
+
+Welcome to my GitHub profile! I specialize in hardware circuit design (PCB layout), IoT solutions, and embedded programming.
+
+---
+
+### 🚀 Featured Project: NTSGI Device
+- **Description:** Smart aquaculture monitoring system using LoRa long-range wireless technology and IoT, transmitting pond data to a central Master Gateway and Web Interface.
+
+- 🏆 **Awards:**
+  - 🥇 First Prize - District Youth & Children Innovation Competition
+  - 🥈 Second Prize - Provincial Science and Technology (KHKT) Competition
+
+---
+
+### 🛠 Skills & Expertise
+- **Hardware & PCB:** 2-Layer PCB Layout, Schematic Design, Circuit Debugging.
+- **Wireless & IoT:** LoRa, ESP32, RTL8720DN, Sensor Data Acquisition.
+
+---
+
+📬 **Connect with me:**
+- 🌐 **Portfolio:** [nguyen-thoai.github.io](https://nguyen-thoai.github.io/GitHub_Page/)
+- 📘 **Facebook:** [Đặng Nguyên Thoại](https://www.facebook.com/share/1PLq2WVBwK/)
+- ✉️ **Email:** dnthoai11@gmail.com
 
 ## 🌐 Languages and tools
 <p align="left">
